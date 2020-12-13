@@ -1,0 +1,250 @@
+.box1{
+    height: 80px;
+    background-color: bisque;
+}
+.box2{
+    height: 80px;
+    background-color:thistle ;
+    width: 49.50%;
+    margin-top: 1%;
+}
+.box3{
+    height: 80px;
+    background-color: lightgreen;
+    width: 49.50%;
+    margin-top: 1%;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.clr{
+    clear: both;
+}
+.box4{
+    height: 80px;
+    background-color: violet;
+    width: 32.66%;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+.box5{
+    height: 80px;
+    background-color: lightskyblue;
+    width: 32.66%;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+.box6{
+    height: 80px;
+    background-color: firebrick;
+    width: 32.66%;
+    margin-top: 1%;
+}
+.box7{
+    height:80px;
+    width:24.25%;
+    background-color: aqua;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+.box8{
+    height:80px;
+    width:24.25%;
+    background-color: aquamarine;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+.box9{
+    height:80px;
+    width:24.25%;
+    background-color:plum;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+.box10{
+    height:80px;
+    width:24.25%;
+    background-color: yellow;
+    margin-top: 1%;
+}
+.box11{
+        height:80px;
+        width:19.2%;
+        background-color: burlywood;
+        margin-top: 1%;
+        margin-right: 1%;
+}
+.box12{
+        height:80px;
+        width:19.2%;  
+        background-color: tomato;
+        margin-top: 1%;
+        margin-right: 1%;
+}
+.box13{
+    height:80px;
+    width:19.2%;  
+    background-color: orange;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+.box14{
+    height:80px;
+    width:19.2%;  
+    background-color: peru;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+.box15{
+    height:80px;
+    width:19.2%; 
+    background-color: royalblue; 
+    margin-top: 1%;
+}
+.box16{
+    height:80px;
+    width:15.8%;  
+    background-color: turquoise;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+.box17{
+    height:80px;
+    width:15.8%; 
+    background-color: olivedrab; 
+    margin-top: 1%;
+    margin-right: 1%;
+}
+.box18{
+    height:80px;
+    width:15.8%;
+    background-color: hotpink;  
+    margin-top: 1%;
+    margin-right: 1%;
+}
+.box19{
+    height:80px;
+    width:15.8%; 
+    background-color:gold; 
+    margin-top: 1%;
+    margin-right: 1%;
+}
+.box20{
+    height:80px;
+    width:15.8%;  
+    background-color: lawngreen;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+.box21{
+    height:80px;
+    width:15.8%;  
+    background-color: navajowhite;
+    margin-top: 1%;
+}
+.box22{
+    height:80px;
+    width:13.42%;  
+    background-color: cadetblue;
+    margin-top: 1%; 
+    margin-right: 1%;
+}
+.box23{
+    height:80px;
+    width:13.42%;  
+    background-color: peru;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+.box24{
+    height:80px;
+    width:13.42%;  
+    background-color:rosybrown;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+.box25{
+    height:80px;
+    width:13.42%;  
+    background-color: lightgrey;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+.box26{
+    height:80px;
+    width:13.42%;  
+    background-color: navy;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+.box27{
+    height:80px;
+    width:13.42%;  
+    background-color: blueviolet;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+.box28{
+    height:80px;
+    width:13.42%;  
+    background-color: peru;
+    margin-top: 1%;
+}
+.box29{
+    height:80px;
+    width:11.62%;  
+    background-color: mediumslateblue;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+.box30{
+    height:80px;
+    width:11.62%;  
+    background-color:mediumseagreen;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+.box31{
+    height:80px;
+    width:11.62%;  
+    background-color: bisque;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+.box32{
+    height:80px;
+    width:11.62%;  
+    background-color:goldenrod;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+.box33{
+    height:80px;
+    width:11.62%;  
+    background-color:mediumseagreen;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+.box34{
+height:80px;
+width:11.62%;  
+background-color: mediumorchid;
+margin-top: 1%;
+margin-right: 1%;
+}
+.box35{
+    height:80px;
+    width:11.62%;  
+    background-color:green;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+.box36{
+    height:80px;
+    width:11.62%;  
+    background-color:pink;
+    margin-top: 1%;
+}
