@@ -1,0 +1,42 @@
+.fl{
+    float:left;
+}
+.fr{
+    float:right;
+}
+.new{
+    float: left;
+    margin-left: 1%;
+}
+.box2{
+    width:24.25%;
+    height: 500px;
+  
+}
+.bg1{
+    background-color: gold;
+}
+.bg2{
+  
+    
+    background-color:orangered;
+}
+.bg3{
+   
+  
+    background-color: lightcoral;
+}
+.bg4{
+   
+    background-color: purple;
+}
+.box3{
+    height:117px;
+    margin-bottom: 10px;
+}
+.box4{
+    width:150px;
+    height: 117px;
+    margin-left: 10px;
+    
+}
